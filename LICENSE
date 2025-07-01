@@ -1,0 +1,24 @@
+The "Public, Contribute-Only" License (PCOL)
+
+Copyright (c) RFSDev 2025
+
+Permission is hereby granted to any person accessing this software (the "Software") to:
+
+1. View and read the source code.
+2. Fork the repository **solely** for the purpose of submitting Pull Requests (PRs) back to the original repository.
+3. Submit contributions under the terms of this license.
+
+**Restrictions:**
+
+- You may **not** use, copy, modify, or distribute this Software, or any part of it, outside of the original repository, except for contribution purposes via Pull Requests.
+- You may **not** create derivative works, use this Software in other projects, or deploy it for personal, commercial, or public use.
+- You may **not** sublicense, sell, or offer this Software as part of any service or product.
+
+**All rights not explicitly granted are reserved.**
+
+Violation of these terms will result in immediate termination of this license.
+
+---
+
+This license is not OSI-approved and is meant for source-visible, controlled-contribution projects.
+

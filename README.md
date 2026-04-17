@@ -6,4 +6,4 @@ appealing messages to make professional-looking announcements.
 
 ## License
 
-This project is licensed under the PCOL License, see [`LICENSE`](./LICENSE) for more information.
+This project is licensed under the Parity Public License 7.0.0, see [`LICENSE`](./LICENSE) for more information.
